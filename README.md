@@ -1,4 +1,4 @@
-# e-Learning Platform
+# Online Learning Platform
 
 ## Overview
 This is a comprehensive **Online Learning Platform** built using the **MERN Stack (MongoDB, Express, React, Node.js)**. The platform supports three user roles: **Admin**, **Teacher**, and **Student**. It offers functionalities like course creation, approval processes, live video conferencing, and secure payments.
