@@ -106,8 +106,8 @@ The project is organized into two main folders:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Bhuvaneshsonujiji/Online_learning_platform
-cd Online_learning_platform
+git clone https://github.com/MohammedHasanMustafa/OLP
+cd OLP
 ```
 
 ### 2. Install Dependencies
@@ -129,7 +129,7 @@ npm install
 Create a `.env` file in the `backend` folder with the following variables:
 
 ```plaintext
-MONGO_DB=mongodb://localhost:27017/lms
+MONGO_DB=mongodb://localhost:27017/elearning
 PORT=5000
 JWT_KEY=my_super_secret_key_123456
 ```
