@@ -215,7 +215,7 @@ You can add the links to your **Project Report** and **Screenshots of Installati
 ---
 
 ## Additional Resources
-### Project Report https://drive.google.com/file/d/1zY4wrwpZlP6ZMtZzznQ4sxPWOQmunUZu/view?usp=drive_link
+### Project Report 
 - **[Project Report](https://github.com/Bhuvaneshsonujiji/Online_learining_platform/blob/master/Online%20Learning%20Project%20Report.pdf)**: Detailed documentation of the Online Learning Platform project.
 - **[Screenshots of Installation and Execution](https://github.com/Bhuvaneshsonujiji/Online_learining_platform/blob/master/Screenshots%20of%20Installation%20and%20Execution%20%20of%20Online%20learning%20project.pdf)**: Step-by-step screenshots of the installation and execution process.
 
